@@ -1,0 +1,95 @@
+[
+    {
+        "id": 1,
+        "plate": "150-TN-4578",
+        "brand": "Dacia",
+        "driver": "Imed",
+        "status": "Working",
+        "engine": "Diesel",
+        "km": 452147,
+        "imageUrl": "https://www.auto-plus.tn/assets/modules/newcars/dacia/logan-mcv/couverture/dacia-logan-mcv.jpg"
+      },
+      {
+        "id": 2,
+        "plate": "170-TN-7778",
+        "brand": "Peugeout",
+        "driver": "Aymen",
+        "status": "Broken",
+        "engine": "Diesel",
+        "km": 4525145,
+        "imageUrl": "https://www.auto-plus.tn/assets/modules/newcars/peugeot/bipper/couverture/peugeot-bipper.jpg"
+      },
+      {
+        "id": 3,
+        "plate": "155-TN-4558",
+        "brand": "Isuzu",
+        "driver": "Houssem",
+        "status": "Working",
+        "engine": "Diesel",
+        "km": 478965,
+        "imageUrl": "https://www.auto-plus.tn/assets/modules/newcars/isuzu/dmax-4p/couverture/isuzu_dmax-4p.jpg"
+      },
+      {
+        "id": 4,
+        "plate": "177-TN-4778",
+        "brand": "Ford",
+        "driver": "Anis",
+        "status": "Broken",
+        "engine": "Diesel",
+        "km": 21000,
+        "imageUrl": "https://catalogue.automobile.tn/big/2019/06/44933.jpg?t=1655390724"
+      },
+
+      {
+        "id": 6,
+        "plate": "22-TN-4228",
+        "brand": "BMW",
+        "driver": "Tarek",
+        "status": "Working",
+        "engine": "Diesel",
+        "km": 52147,
+        "imageUrl": "https://www.largus.fr/images/images/x6-restylage-illustration-avg.jpg?width=612&quality=80"
+      },
+      {
+        "id": 5,
+        "plate": "198-TN-458",
+        "brand": "Renault",
+        "driver": "Fethi",
+        "status": "Broken",
+        "engine": "Diesel",
+        "km": 85000,
+        "imageUrl": "https://static-viamobilis.com/via/images/others/technicalsheet/renault-trucks-t-4x2.jpg"
+      },
+      {
+        "id": 7,
+        "plate": "120-TN-4228",
+        "brand": "Volvo",
+        "driver": "Ali",
+        "status": "Working",
+        "engine": "Diesel",
+        "km": 300000,
+        "imageUrl": "https://www.volvotrucks.us/-/media/vtna/images/home/teaser-features/build-your-volvo.jpg?h=322&w=570&rev=debcbd8bcb9d4ddb938b3e2d56501cec&hash=E030E063BAC68075EB522EC0467B7170"
+      },
+      {
+        "id": 8,
+        "plate": "188-TN-4888",
+        "brand": "Scania",
+        "driver": "Jalel",
+        "status": "Working",
+        "engine": "Diesel",
+        "km": 654123,
+        "imageUrl": "https://www.renderhub.com/jenek/scania-s730-semi-truck/scania-s730-semi-truck-01.jpg"
+      },
+      {
+        "id": 9,
+        "plate": "199-TN-9998",
+        "brand": "Man",
+        "driver": "Ali",
+        "status": "Working",
+        "engine": "Diesel",
+        "km": 145698,
+        "imageUrl": "https://i.ebayimg.com/images/g/jkUAAOSwXf1afdbn/s-l500.jpg"
+      }
+
+      
+]
